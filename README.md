@@ -1,4 +1,4 @@
-# Suzuka-Yoshida
+# YoshidaSuzuka
 
 個人用
 
